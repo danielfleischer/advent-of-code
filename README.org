@@ -1,0 +1,6 @@
+* Advent of Code 2021
+:PROPERTIES:
+:CREATED:  [2021-12-02 Thu 09:04]
+:END:
+
+My code solutions to the [[https://adventofcode.com/][Advent of Code 2021]] challenge.
