@@ -1,30 +1,41 @@
+
+* Advent of Code 2022
+:PROPERTIES:
+:CREATED:  [2022-12-02 Fri 14:36]
+:END:
+
+My code solutions to the [[https://adventofcode.com/][Advent of Code 2022]] challenge. Written in Python and presented using Juypter.
+
+- [[file:Notebooks/day-01.ipynb][Day 1]].
+- [[file:Notebooks/day-02.ipynb][Day 2]]. 
+
 * Advent of Code 2021
 :PROPERTIES:
 :CREATED:  [2021-12-02 Thu 09:04]
 :END:
 
-My code solutions to the [[https://adventofcode.com/][Advent of Code 2021]] challenge. Written in Python and presented using Juypter. 
+2021 solutions.
 
-- [[file:Notebooks/day01.ipynb][Day 1]].
-- [[file:Notebooks/day02.ipynb][Day 2]].
-- [[file:Notebooks/day03.ipynb][Day 3]].
-- [[file:Notebooks/day04.ipynb][Day 4]].
-- [[file:Notebooks/day05.ipynb][Day 5]].
-- [[file:Notebooks/day06.ipynb][Day 6]].
-- [[file:Notebooks/day07.ipynb][Day 7]].
-- [[file:Notebooks/day08.ipynb][Day 8]], [[file:Notebooks/day08-2.ipynb][smarter version]].
-- [[file:Notebooks/day09.ipynb][Day 9]].
-- [[file:Notebooks/day10.ipynb][Day 10]].
-- [[file:Notebooks/day11.ipynb][Day 11]].
-- [[file:Notebooks/day12.ipynb][Day 12]].
-- [[file:Notebooks/day13.ipynb][Day 13]].
-- [[file:Notebooks/day14.ipynb][Day 14]].
-- [[file:Notebooks/day15.ipynb][Day 15]].
-- [[file:Notebooks/day16.ipynb][Day 16]].
-- [[file:Notebooks/day17.ipynb][Day 17]].
-- [[file:Notebooks/day18.ipynb][Day 18]].
+- [[file:2021/Notebooks/day01.ipynb][Day 1]].
+- [[file:2021/Notebooks/day02.ipynb][Day 2]].
+- [[file:2021/Notebooks/day03.ipynb][Day 3]].
+- [[file:2021/Notebooks/day04.ipynb][Day 4]].
+- [[file:2021/Notebooks/day05.ipynb][Day 5]].
+- [[file:2021/Notebooks/day06.ipynb][Day 6]].
+- [[file:2021/Notebooks/day07.ipynb][Day 7]].
+- [[file:2021/Notebooks/day08.ipynb][Day 8]], [[file:2021/Notebooks/day08-2.ipynb][smarter version]].
+- [[file:2021/Notebooks/day09.ipynb][Day 9]].
+- [[file:2021/Notebooks/day10.ipynb][Day 10]].
+- [[file:2021/Notebooks/day11.ipynb][Day 11]].
+- [[file:2021/Notebooks/day12.ipynb][Day 12]].
+- [[file:2021/Notebooks/day13.ipynb][Day 13]].
+- [[file:2021/Notebooks/day14.ipynb][Day 14]].
+- [[file:2021/Notebooks/day15.ipynb][Day 15]].
+- [[file:2021/Notebooks/day16.ipynb][Day 16]].
+- [[file:2021/Notebooks/day17.ipynb][Day 17]].
+- [[file:2021/Notebooks/day18.ipynb][Day 18]].
 - Day 19, not yet!
-- [[file:Notebooks/day20.ipynb][Day 20]].
-- [[file:Notebooks/day21.ipynb][Day 21 naive]].
-- [[file:Notebooks/day25.ipynb][Day 25, first task]].
+- [[file:2021/Notebooks/day20.ipynb][Day 20]].
+- [[file:2021/Notebooks/day21.ipynb][Day 21 naive]].
+- [[file:2021/Notebooks/day25.ipynb][Day 25, first task]].
 
