@@ -8,6 +8,8 @@ My code solutions to the [[https://adventofcode.com/][Advent of Code 2022]] chal
 
 - [[file:Notebooks/day-01.ipynb][Day 1]].
 - [[file:Notebooks/day-02.ipynb][Day 2]]. 
+- [[file:Notebooks/day-03.ipynb][Day 3]]. 
+- [[file:Notebooks/day-04.ipynb][Day 4]]. 
 
 * Advent of Code 2021
 :PROPERTIES:
