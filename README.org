@@ -11,7 +11,10 @@ My code solutions to the [[https://adventofcode.com/][Advent of Code 2022]] chal
 - [[file:Notebooks/day-03.ipynb][Day 3]]. 
 - [[file:Notebooks/day-04.ipynb][Day 4]]. 
 - [[file:Notebooks/day-05.ipynb][Day 5]].
-- [[file:Notebooks/day-06.ipynb][Day 6]]. 
+- [[file:Notebooks/day-06.ipynb][Day 6]].
+- [[file:Notebooks/day-07.ipynb][Day 7]], [[file:Notebooks/day-07-better.ipynb][better]].
+- [[file:Notebooks/day-08.ipynb][Day 8]].
+- [[file:Notebooks/day-09.ipynb][Day 9]].
 
 * Advent of Code 2021
 :PROPERTIES:
