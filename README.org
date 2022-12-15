@@ -20,6 +20,7 @@ My code solutions to the [[https://adventofcode.com/][Advent of Code 2022]] chal
 - [[file:Notebooks/day-12.ipynb][Day 12]].
 - [[file:Notebooks/day-13.ipynb][Day 13]].
 - [[file:Notebooks/day-14.ipynb][Day 14]].
+- [[file:Notebooks/day-15.ipynb][Day 15]].
 
 
 
