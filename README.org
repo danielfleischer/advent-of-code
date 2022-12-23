@@ -23,6 +23,7 @@ My code solutions to the [[https://adventofcode.com/][Advent of Code 2022]] chal
 - [[file:Notebooks/day-15.ipynb][Day 15]].
 - [[file:Notebooks/day-16.ipynb][Day 16]].
 - [[file:Notebooks/day-21.ipynb][Day 21]].
+- [[file:Notebooks/day-23.ipynb][Day 23]].
 
 
 
